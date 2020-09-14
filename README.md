@@ -6,5 +6,8 @@ Años ha, la informacion provenia de libros y expertos, para poder informarnos d
 
 Este proyecto busca lograr un enfoque diferente sobre una tematica muy tratada, no por ello deberia ser mejor o peor, simplemente es una prueba de demostracion de lo aprendido.
 
-La API que utilzare sera la de Twitter buscando lograr nuevas fuentes de informacion y nuevas perspectivas.
+El dataset escogido para ello es: https://www.kaggle.com/ishivinal/covid19-useful-features-by-country
+El dataset recoge datos como la poblacion total, el nº de turistas que recibe al año o la edad media de sus habitantes, ademas de informacion relacionada con la cuarentena, como cuando registraron el primer caso de infeccion en el pais,la primera muerte o la fecha de confinamiento.
+
+La API que utilzare sera la de Twitter buscando lograr nuevas fuentes de informacion y nuevas perspectivas, para tratar la API de una manera mas sencilla (sic) he utilizado la libreria Tweepy.
 
